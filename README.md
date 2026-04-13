@@ -19,16 +19,16 @@
 
 📋 快捷分发：支持一键复制 API Key 或代码段，大幅提升开发效率。
 
-<img width="2696" height="1151" alt="image" src="https://github.com/user-attachments/assets/452583db-f032-42cc-970c-38c923e11ddb" />
+<img width="2673" height="1441" alt="image" src="https://github.com/user-attachments/assets/01352701-1747-42f0-8f7f-d3ab01fb29b6" />
 
-<img width="2653" height="1451" alt="image" src="https://github.com/user-attachments/assets/75ae7a72-623c-4c72-a175-95c03967b678" />
 
-📂 数据交互：支持 CSV 格式的批量导入与导出，方便备份与迁移，请自行对导出文件加密哦。
+📂 数据交互：支持 CSV 格式的批量导入与导出（导入自动去重），方便备份与迁移，请自行对导出文件加密哦。
 <img width="1443" height="366" alt="image" src="https://github.com/user-attachments/assets/0aa089e3-e1a6-44ea-86bc-2dadede633fc" />
 
 
-🎨 Gemini Blue 主题：深邃专业的 UI 设计，支持 Treeview 树形管理，供应商与 Key 逻辑清晰。
-<img width="2690" height="1666" alt="image" src="https://github.com/user-attachments/assets/d01b4d0e-19d7-412d-bc3c-cc5824349c08" />
+🎨 Gemini Blue 主题：深邃专业的 UI 设计，支持 Treeview 树形管理，供应商与 Key 逻辑清晰，是不是挺漂亮哒。
+<img width="2656" height="1012" alt="image" src="https://github.com/user-attachments/assets/550d3f9b-0a7b-40ae-84ee-bf447c566789" />
+
 
 API key支持修改，修改后跳转到录入/修改界面。支持对模型检测连通性，正常可用模型显示绿色，不可用则是红色
 <img width="2695" height="1548" alt="image" src="https://github.com/user-attachments/assets/25f75f78-43ca-4c54-8c82-21a8020d28a7" />
