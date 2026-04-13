@@ -8,6 +8,8 @@
 
 启动密码：首次启动软件需设置密码，防止他人非法开启软件。
 
+<img width="638" height="674" alt="image" src="https://github.com/user-attachments/assets/dc554f5c-66fa-4535-a741-94578fde5e1e" />
+
 自定义找回：支持安全问题自定义，支持找回，兼顾安全性与容错性。
 <img width="618" height="468" alt="image" src="https://github.com/user-attachments/assets/c9bbac57-f5e5-4131-ae54-1d0e997e925d" />
 
